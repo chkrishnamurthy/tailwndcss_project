@@ -1,5 +1,5 @@
-export default function App() {
-  return (
-    <h1 className="text-3xl text-red-500 font-bold underline">Hello world!</h1>
-  );
+function App() {
+  return <div className="text-red-900 font-bold text-2xl">Coming Soon</div>;
 }
+
+export default App;
